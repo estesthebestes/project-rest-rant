@@ -1,9 +1,13 @@
 |   Method  | Path  | Purpose|
 |-----------|-------|--------| 
-| Get       |   /   |Home Page|
-|           |       |        |
-|           |       |        |
-|           |       |        |
-|           |       |        |
-|           |       |        |
-|           |       |        |
+| GET       |   /   |Home Page|
+| GET       |/places|        |
+| POST      |/places|        |
+| GET       |       |        |
+| GET       |       |        |
+| PUT       |       |        |
+| GET       |       |        |
+| DELETE    |
+| POST      |
+| DELETE    |
+| GET       |
